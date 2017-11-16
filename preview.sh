@@ -1,1 +1,1 @@
-dev_appserver.py --php_executable_path=/usr/bin/php-cgi $PWD
+dev_appserver.py --php_executable_path=/usr/bin/php-cgi $PWD/public
